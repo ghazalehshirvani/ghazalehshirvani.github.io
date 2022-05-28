@@ -1,1 +1,0 @@
-# ghazalehshirvani.github.io

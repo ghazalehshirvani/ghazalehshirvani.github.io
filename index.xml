@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>GhazalehShirvani</title>
+    <link>https://ghazalehshirvani.github.io/</link>
+      <atom:link href="https://ghazalehshirvani.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>GhazalehShirvani</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/</link>
+      <url>https://ghazalehshirvani.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>GhazalehShirvani</title>
+      <link>https://ghazalehshirvani.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://ghazalehshirvani.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://ghazalehshirvani.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,41 +34,41 @@
     
     <item>
       <title>UltraLearn: Next-Generation CyberSecurity Learning Platform</title>
-      <link>https://example.com/publication/ultralearn/</link>
+      <link>https://ghazalehshirvani.github.io/publication/ultralearn/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ultralearn/</guid>
+      <guid>https://ghazalehshirvani.github.io/publication/ultralearn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IoT-Shield: A Novel DDoS Detection Approach for IoT-Based Devices</title>
-      <link>https://example.com/publication/iotshield/</link>
+      <link>https://ghazalehshirvani.github.io/publication/iotshield/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/iotshield/</guid>
+      <guid>https://ghazalehshirvani.github.io/publication/iotshield/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MC-GAN: A Reimplementation of GameGAN With a Gaming Perspective</title>
-      <link>https://example.com/publication/mcgan/</link>
+      <link>https://ghazalehshirvani.github.io/publication/mcgan/</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mcgan/</guid>
+      <guid>https://ghazalehshirvani.github.io/publication/mcgan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GITCBot: A Novel Approach for the Next Generation of C&amp;C Malware</title>
-      <link>https://example.com/publication/gitcbot/</link>
+      <link>https://ghazalehshirvani.github.io/publication/gitcbot/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gitcbot/</guid>
+      <guid>https://ghazalehshirvani.github.io/publication/gitcbot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://ghazalehshirvani.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://ghazalehshirvani.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -191,9 +191,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://ghazalehshirvani.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://ghazalehshirvani.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
